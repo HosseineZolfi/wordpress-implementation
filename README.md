@@ -1,2 +1,1 @@
-# python-scripts
-Some Python services!!
+for wordpress
